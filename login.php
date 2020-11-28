@@ -21,7 +21,7 @@
 				</div>
 				<div class="form-group">
 					<label>Password</label>
-					<input class="form-control"type="password" name="password" placeholder="password">
+					<input class="form-control"type="password" name="password" placeholder="Password">
 				</div>
 				<div class="form-group">
 					<button class="btn btn-lg btn-default btn-block btn-primary" type="submit">Sign in</button>
@@ -29,7 +29,7 @@
 			</form>
 			<a href="/">Go Back</a>
 			<p>
-				Don't have a account? <a href="registerUser.php"><button class="btn btn-sm btn-default btn-danger">Sign Up</button></a>
+				Don't have a account? <a href="registerUser.php"><button class="btn btn-sm btn-default btn-danger">Sign Up!</button></a>
 			</p>
 		</div>
 	</div>

@@ -21,22 +21,22 @@
 
 				<div class = "form-group">
 					<label>Email address</label>
-					<input type="email" name = "email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+					<input type="email" name = "email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="user123@rinder.com">
 					<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 				</div>
 				<div class = "form-group">
 					<label>Password</label>
-					<input type="password" name="firstPassword" class="form-control" id="exampleInputPassword1">
+					<input type="password" name="firstPassword" class="form-control" id="exampleInputPassword1" placeholder="This is a secret">
 				</div>
 				<div class = "form-group">
 					<label>Confirm Password</label>
-					<input type="password" name="secondPassword" class="form-control" id="exampleInputPassword1">
+					<input type="password" name="secondPassword" class="form-control" id="exampleInputPassword1" placeholder="This is a secret">
 				</div>
 				<div class = "form-group">
 					<button type = "submit" name = "register" class = "btn btn-lg btn-default btn-danger btn-block"> Register </button>
 				</div>
 				<p>
-				 	Already have an account? <a href="login.php"><button class="btn btn-sm btn-default btn-primary">Login</button></a>
+				 	Already have an account? <a href="login.php"><button class="btn btn-sm btn-default btn-primary">Login!</button></a>
 				</p>
 			</form>
 		</div>
