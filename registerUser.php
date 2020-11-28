@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row">
 	    <div id="form">
-				<h1 style="text-align: center;">Register!</h1>
+				<h1 style="text-align: center;">Register an account</h1>
 			<form action = "registerUser.php" method = "POST">
 			<?php include('errorHandling.php') ?>
 				<div class="form-group">
@@ -35,10 +35,10 @@
 				<div class = "form-group">
 					<button type = "submit" name = "register" class = "btn btn-lg btn-default btn-danger btn-block"> Register </button>
 				</div>
-				<p>
-				 	Already have an account? <a href="login.php"><button class="btn btn-sm btn-default btn-primary">Login!</button></a>
-				</p>
 			</form>
+			<p>
+				Already have an account? <a href="login.php"><button class="btn btn-sm btn-default btn-primary">Login!</button></a>
+			</p>
 		</div>
 		</div>
 	</div>
