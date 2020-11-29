@@ -27,7 +27,7 @@
 					<button class="btn btn-lg btn-default btn-block btn-primary" type="submit">Sign in</button>
 				</div>
 			</form>
-			<a href="/">Go Back</a>
+			<a href="landing.php">Go Back</a>
 			<p>
 				Don't have a account? <a href="registerUser.php"><button class="btn btn-sm btn-default btn-danger">Sign Up!</button></a>
 			</p>
