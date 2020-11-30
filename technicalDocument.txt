@@ -1,0 +1,35 @@
+Michael Tucholski
+Rory Chabak
+Tara Khanal
+Online Technical Document
+System and Database Design
+-Web pages were designed in PHP, HTML, CSS
+-PHPMyAdmin and MySQL Database
+-Uses of Bootstrap and Font-Awesome
+Business Logic
+-user will first see the landing page, which gives the options of signing up and logging in
+-new account info is stored into the loginInfo table
+-after logging in, the user is given different recipes which they can potentially favorite.
+-if a recipe is favorited, that is added to the userfav column inside of the users table
+Contributions:
+-everyone helped with creating potential solutions to problems that were brought up
+-design was a combination of everyone’s ideas and preferences
+Michael:
+-created the initial login and register page
+-created the login info database
+-created the GitHub repository and Discord server
+-created the database for recipes.
+Rory:
+created the page that displays the recipes
+ created the user’s database that keeps track of favorited recipes and user information
+created the graphic interface for the new recipes
+created the favorited recipes page
+Tara:
+-improved the design for the login and signup pages using the bootstrap framework 
+-created the landing page for the website
+Special Features
+-Shows new recipes to the user, which is supposed to inspire them to cook more, and eat exciting new foods
+- Users can see their old, saved recipes
+- Adding the recipe to favorites saves the recipe to your favorites
+
+
